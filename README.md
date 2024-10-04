@@ -4,12 +4,13 @@
 
 Official implementation of "Refining Deep Learning Segmentation Maps with a Local Thresholding Approach: Application to Liver Surface Nodularity Quantification in CT", accepted paper at MICCAI workshop CaPTion 2024.
 
-**Authors**: *Sisi Yang* $^{*[1,2,3,4]}$, *Alexandre Bône* $^{[1]}$, *Thomas Decaens* $^{[1]}$, *Joan Alexis Glaunes* $^{[2,3]}$.  
+**Authors**: *Sisi Yang* $^{*[1,2,3,4]}$, *Alexandre Bône* $^{[1]}$, *Thomas Decaens* $^{[5]}$, *Joan Alexis Glaunes* $^{[2,3]}$.  
 
 [1] Guerbet Research, Villepinte, France  
 [2] MAP5, Paris, France  
 [3] Université Paris Cité, Paris, France 
 [4] Hôpital Cochin, APHP, Paris, France
+[5] Centre Hospitalier Universitaire Grenoble-Alpes, Grenoble, France
 
 $*$ Corresponding author
 
